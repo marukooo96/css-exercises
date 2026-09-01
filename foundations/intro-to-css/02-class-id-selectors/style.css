@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.odd{
+    background-color: lightpink;
+    font-family:Verdana, sans-serif;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+#green {
+    background-color: lightgreen;
+    font-size: 24 px;
+    font-weight: bold;
+}
